@@ -28,7 +28,7 @@ Burada hem akademik hem de kişisel merakımla geliştirdiğim bazı projelerimi
 
 ### 📈 GitHub İstatistiklerim
 
-![Ümitcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=umitcancinar&show_icons=true&theme=radical)
+![İstatistiklerim](https://github-readme-stats.vercel.app/api?username=umitcancinar&show_icons=true&theme=radical)
 
 ---
 💬 **Bana Ulaşın:** Projelerim hakkında konuşmak, işbirliği yapmak veya sadece yazılım üzerine sohbet etmek isterseniz bana [websitem](https://umitcancinar.me) üzerinden ulaşabilirsiniz.
