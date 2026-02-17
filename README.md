@@ -22,13 +22,13 @@ Burada hem akademik hem de kişisel merakımla geliştirdiğim bazı projelerimi
 * ⏱️ **[PomodoProx](https://pomodoprox.netlify.app):** Zaman yönetimi ve odaklanma süreçlerini iyileştirmek için geliştirdiğim Pomodoro tabanlı verimlilik aracı.
 * 🎲 **[AlgoLoto Kazandırır](https://algolotokazandirir.netlify.app):** Algoritmik hesaplamalar ve olasılık üzerine kurulu eğlenceli bir loto simülasyonu.
 * 🤖 **Fırat Üniversitesi ChatBot:** Kurumsal iletişim süreçlerini hızlandırmak amacıyla İŞKUR programı kapsamında geliştirdiğim sohbet botu.
-* ayrıca private olan birkaç sitem de mevcut yakında kullanımınıza sunacağım
+* Ayrıca private olan birkaç sitem de mevcut yakında kullanımınıza sunacağım
 
 ---
 
 ### 📈 GitHub İstatistiklerim
 
-![Ümitcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendi-github-kullanici-adiniz&show_icons=true&theme=radical)
+![Ümitcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=umitcancinar&show_icons=true&theme=radical)
 
 ---
 💬 **Bana Ulaşın:** Projelerim hakkında konuşmak, işbirliği yapmak veya sadece yazılım üzerine sohbet etmek isterseniz bana [websitem](https://umitcancinar.me) üzerinden ulaşabilirsiniz.
