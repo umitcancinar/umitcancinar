@@ -1,6 +1,6 @@
 # Merhaba, Ben Ümitcan Çınar! 👋
 
-Fırat Üniversitesi'nde Yazılım Mühendisliği öğrencisiyim. Gelişime açık, algoritmik düşünmeyi seven ve teorik bilgileri (özellikle matematik ve fizik temellerini) pratik projelere dönüştürmekten keyif alan bir geliştiriciyim. Kodlama serüvenimde modern web teknolojileri ve Java üzerine odaklanıyorum.
+Fırat Üniversitesi'nde Yazılım Mühendisliği öğrencisiyim. Gelişime açık, algoritmik düşünmeyi seven ve teorik bilgileri (özellikle matematik ve fizik temellerini) pratik projelere dönüştürmekten keyif alan bir mühendis adayıyım. Kodlama serüvenimde şuan modern web teknolojileri ve Java üzerine odaklanıyorum.
 
 [![Kişisel Web Sitem](https://img.shields.io/badge/Kişisel_Web_Sitem-Ziyaret_Et-blue?style=for-the-badge&logo=googlechrome)](https://umitcancinar.me)
 
@@ -24,7 +24,7 @@ Burada hem akademik hem de kişisel merakımla geliştirdiğim bazı projelerimi
 * 🧩 **[AlgoVisPro](https://algovispro.netlify.app):** Karmaşık algoritmaların çalışma mantığını görselleştirerek öğrenmeyi kolaylaştıran web uygulamam.
 * ⏱️ **[PomodoProx](https://pomodoprox.netlify.app):** Zaman yönetimi ve odaklanma süreçlerini iyileştirmek için geliştirdiğim Pomodoro tabanlı verimlilik aracı.
 * 🎲 **[AlgoLoto Kazandırır](https://algolotokazandirir.netlify.app):** Algoritmik hesaplamalar ve olasılık üzerine kurulu eğlenceli bir loto simülasyonu.
-* 🤖 **Fırat Üniversitesi ChatBot:** Kurumsal iletişim süreçlerini hızlandırmak amacıyla İŞKUR programı kapsamında geliştirdiğim sohbet botu.
+* 🤖 **Fırat Üniversitesi ChatBot:** Kurumsal iletişim süreçlerini hızlandırmak amacıyla İŞKUR programı kapsamında geliştirdiğimiz sohbet botu.
 * Ayrıca private olan birkaç sitem de mevcut yakında kullanımınıza sunacağım
   
 ---
